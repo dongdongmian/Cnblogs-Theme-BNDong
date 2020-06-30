@@ -295,7 +295,7 @@ function Base() {
         var settings = {
             "async": true,
             "crossDomain": true,
-            "url": "https://v1.hitokoto.cn/?c=d",
+            "url": "https://v1.hitokoto.cn/?c=i",
             "method": "GET",
             "headers": {
                 "content-type": "application/x-www-form-urlencoded",
